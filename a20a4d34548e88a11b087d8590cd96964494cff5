@@ -16,6 +16,23 @@
       "revId": "a20a4d34548e88a11b087d8590cd96964494cff5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_a4d48647",
+        "filename": "arch/arm/configs/cyanogenmod_steelhead_defconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 158,
+      "author": {
+        "id": 119
+      },
+      "writtenOn": "2014-04-06T11:09:40Z",
+      "side": 1,
+      "message": "I seem to recall something complaining about no module support, but admittedly don\u0027t recall what at this point.  In any case, it will need updated when I finish getting a newer kernel tree up-to-date, as newer graphics drivers are no longer fully included in the kernel tree.",
+      "revId": "a20a4d34548e88a11b087d8590cd96964494cff5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
